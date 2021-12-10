@@ -1,0 +1,2 @@
+# hmhm.com
+<?php phpinfo(); ?>
